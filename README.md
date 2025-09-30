@@ -6,3 +6,5 @@ Repo for my wife to keep notes and information
 This section contains health and fitness related information. Track progress, store workout routines, nutrition notes, wellness goals, and maintain a comprehensive health journey.
 
 📁 [Health Dashboard](./health/health.md)
+
+📄 [Elite Fitness 6-Week Challenge](./health/nutrition/elite-6-week.md)
